@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zM8oBYPhKbIrJzc2aZp8IX+6QusGuhRsClMMmkMZBjx9rhdOQbKeYGo3tIchrT596ulYDQE0h/1SjZiUjNOKAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Common\\WitnessReports.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlavidoj\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\vlavidoj\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

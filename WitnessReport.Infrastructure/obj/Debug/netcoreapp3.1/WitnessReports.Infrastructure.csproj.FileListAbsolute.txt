@@ -1,0 +1,17 @@
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\bin\Debug\netcoreapp3.1\WitnessReports.Infrastructure.deps.json
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\bin\Debug\netcoreapp3.1\WitnessReports.Infrastructure.dll
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\bin\Debug\netcoreapp3.1\WitnessReports.Infrastructure.pdb
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\bin\Debug\netcoreapp3.1\WitnessReports.Common.dll
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\bin\Debug\netcoreapp3.1\WitnessReports.Interface.dll
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\bin\Debug\netcoreapp3.1\WitnessReports.Model.dll
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\bin\Debug\netcoreapp3.1\WitnessReports.Interface.pdb
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\bin\Debug\netcoreapp3.1\WitnessReports.Common.pdb
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\bin\Debug\netcoreapp3.1\WitnessReports.Model.pdb
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\obj\Debug\netcoreapp3.1\WitnessReports.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\obj\Debug\netcoreapp3.1\WitnessReports.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\obj\Debug\netcoreapp3.1\WitnessReports.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\obj\Debug\netcoreapp3.1\WitnessReports.Infrastructure.AssemblyInfo.cs
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\obj\Debug\netcoreapp3.1\WitnessReports.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\obj\Debug\netcoreapp3.1\WitnessReports.Infrastructure.csproj.CopyComplete
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\obj\Debug\netcoreapp3.1\WitnessReports.Infrastructure.dll
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Infrastructure\obj\Debug\netcoreapp3.1\WitnessReports.Infrastructure.pdb

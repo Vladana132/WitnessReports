@@ -1,0 +1,15 @@
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\bin\Debug\netcoreapp3.1\WitnessReports.Interface.deps.json
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\bin\Debug\netcoreapp3.1\WitnessReports.Interface.dll
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\bin\Debug\netcoreapp3.1\WitnessReports.Interface.pdb
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\bin\Debug\netcoreapp3.1\WitnessReports.Common.dll
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\bin\Debug\netcoreapp3.1\WitnessReports.Model.dll
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\bin\Debug\netcoreapp3.1\WitnessReports.Common.pdb
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\bin\Debug\netcoreapp3.1\WitnessReports.Model.pdb
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\obj\Debug\netcoreapp3.1\WitnessReports.Interface.csproj.AssemblyReference.cache
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\obj\Debug\netcoreapp3.1\WitnessReports.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\obj\Debug\netcoreapp3.1\WitnessReports.Interface.AssemblyInfoInputs.cache
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\obj\Debug\netcoreapp3.1\WitnessReports.Interface.AssemblyInfo.cs
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\obj\Debug\netcoreapp3.1\WitnessReports.Interface.csproj.CoreCompileInputs.cache
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\obj\Debug\netcoreapp3.1\WitnessReports.Interface.csproj.CopyComplete
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\obj\Debug\netcoreapp3.1\WitnessReports.Interface.dll
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Interface\obj\Debug\netcoreapp3.1\WitnessReports.Interface.pdb

@@ -1,0 +1,10 @@
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Model\bin\Debug\netcoreapp3.1\WitnessReports.Model.deps.json
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Model\bin\Debug\netcoreapp3.1\WitnessReports.Model.dll
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Model\bin\Debug\netcoreapp3.1\WitnessReports.Model.pdb
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Model\obj\Debug\netcoreapp3.1\WitnessReports.Model.csproj.AssemblyReference.cache
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Model\obj\Debug\netcoreapp3.1\WitnessReports.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Model\obj\Debug\netcoreapp3.1\WitnessReports.Model.AssemblyInfoInputs.cache
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Model\obj\Debug\netcoreapp3.1\WitnessReports.Model.AssemblyInfo.cs
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Model\obj\Debug\netcoreapp3.1\WitnessReports.Model.csproj.CoreCompileInputs.cache
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Model\obj\Debug\netcoreapp3.1\WitnessReports.Model.dll
+C:\Users\vlavidoj\Desktop\WitnessReport\WitnessReport.Model\obj\Debug\netcoreapp3.1\WitnessReports.Model.pdb

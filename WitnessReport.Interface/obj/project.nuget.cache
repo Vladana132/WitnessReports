@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vitKBE2sUuSwDpzdSijAlBZpl2Pa/1ioZTGpiIQPEsRfQGVagc8HbnV3xxBu3vkDbqt7PF84OoSzo67t0wuMKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Interface\\WitnessReports.Interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlavidoj\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\vlavidoj\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\vlavidoj\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
+    "C:\\Users\\vlavidoj\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

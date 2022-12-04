@@ -1,0 +1,549 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReports.IntegrationTests\\WitnessReports.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Common\\WitnessReports.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Common\\WitnessReports.Common.csproj",
+        "projectName": "WitnessReports.Common",
+        "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Common\\WitnessReports.Common.csproj",
+        "packagesPath": "C:\\Users\\vlavidoj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vlavidoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\vlavidoj\\Projects\\customer-api\\src\\Crayon.Api.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\file-api\\src\\Crayon.FileApi.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\pact-rest\\src\\Crayon.Pact.Client\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\partner-center-sdk\\src\\Crayon.PartnerCenter.Sdk\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Infrastructure\\WitnessReports.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Infrastructure\\WitnessReports.Infrastructure.csproj",
+        "projectName": "WitnessReports.Infrastructure",
+        "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Infrastructure\\WitnessReports.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\vlavidoj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vlavidoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\vlavidoj\\Projects\\customer-api\\src\\Crayon.Api.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\file-api\\src\\Crayon.FileApi.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\pact-rest\\src\\Crayon.Pact.Client\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\partner-center-sdk\\src\\Crayon.PartnerCenter.Sdk\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Interface\\WitnessReports.Interface.csproj": {
+                "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Interface\\WitnessReports.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Interface\\WitnessReports.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Interface\\WitnessReports.Interface.csproj",
+        "projectName": "WitnessReports.Interface",
+        "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Interface\\WitnessReports.Interface.csproj",
+        "packagesPath": "C:\\Users\\vlavidoj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vlavidoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\vlavidoj\\Projects\\customer-api\\src\\Crayon.Api.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\file-api\\src\\Crayon.FileApi.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\pact-rest\\src\\Crayon.Pact.Client\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\partner-center-sdk\\src\\Crayon.PartnerCenter.Sdk\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Common\\WitnessReports.Common.csproj": {
+                "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Common\\WitnessReports.Common.csproj"
+              },
+              "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Model\\WitnessReports.Model.csproj": {
+                "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Model\\WitnessReports.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Model\\WitnessReports.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Model\\WitnessReports.Model.csproj",
+        "projectName": "WitnessReports.Model",
+        "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Model\\WitnessReports.Model.csproj",
+        "packagesPath": "C:\\Users\\vlavidoj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vlavidoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\vlavidoj\\Projects\\customer-api\\src\\Crayon.Api.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\file-api\\src\\Crayon.FileApi.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\pact-rest\\src\\Crayon.Pact.Client\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\partner-center-sdk\\src\\Crayon.PartnerCenter.Sdk\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Service\\WitnessReports.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Service\\WitnessReports.Service.csproj",
+        "projectName": "WitnessReports.Service",
+        "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Service\\WitnessReports.Service.csproj",
+        "packagesPath": "C:\\Users\\vlavidoj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vlavidoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\vlavidoj\\Projects\\customer-api\\src\\Crayon.Api.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\file-api\\src\\Crayon.FileApi.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\pact-rest\\src\\Crayon.Pact.Client\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\partner-center-sdk\\src\\Crayon.PartnerCenter.Sdk\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Infrastructure\\WitnessReports.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Infrastructure\\WitnessReports.Infrastructure.csproj"
+              },
+              "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Interface\\WitnessReports.Interface.csproj": {
+                "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Interface\\WitnessReports.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.3, )"
+            },
+            "libphonenumber-csharp": {
+              "target": "Package",
+              "version": "[8.13.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReports.IntegrationTests\\WitnessReports.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReports.IntegrationTests\\WitnessReports.IntegrationTests.csproj",
+        "projectName": "WitnessReports.IntegrationTests",
+        "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReports.IntegrationTests\\WitnessReports.IntegrationTests.csproj",
+        "packagesPath": "C:\\Users\\vlavidoj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReports.IntegrationTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vlavidoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\vlavidoj\\Projects\\customer-api\\src\\Crayon.Api.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\file-api\\src\\Crayon.FileApi.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\pact-rest\\src\\Crayon.Pact.Client\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\partner-center-sdk\\src\\Crayon.PartnerCenter.Sdk\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Common\\WitnessReports.Common.csproj": {
+                "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Common\\WitnessReports.Common.csproj"
+              },
+              "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessResport.Api\\WitnessReports.Api.csproj": {
+                "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessResport.Api\\WitnessReports.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[3.1.25, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessResport.Api\\WitnessReports.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessResport.Api\\WitnessReports.Api.csproj",
+        "projectName": "WitnessReports.Api",
+        "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessResport.Api\\WitnessReports.Api.csproj",
+        "packagesPath": "C:\\Users\\vlavidoj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessResport.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vlavidoj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\vlavidoj\\Projects\\customer-api\\src\\Crayon.Api.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\file-api\\src\\Crayon.FileApi.Sdk\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\pact-rest\\src\\Crayon.Pact.Client\\bin\\Debug": {},
+          "C:\\Users\\vlavidoj\\Projects\\partner-center-sdk\\src\\Crayon.PartnerCenter.Sdk\\bin\\Debug": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Common\\WitnessReports.Common.csproj": {
+                "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Common\\WitnessReports.Common.csproj"
+              },
+              "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Interface\\WitnessReports.Interface.csproj": {
+                "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Interface\\WitnessReports.Interface.csproj"
+              },
+              "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Service\\WitnessReports.Service.csproj": {
+                "projectPath": "C:\\Users\\vlavidoj\\Desktop\\WitnessReport\\WitnessReport.Service\\WitnessReports.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.306\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
